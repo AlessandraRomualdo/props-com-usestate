@@ -1,0 +1,9 @@
+div#CardJogo{
+    margin: auto;
+    width: 370px;
+    margin-bottom: 20px;
+}
+img{
+    width: 360px;
+    border-radius: 5px;
+}
